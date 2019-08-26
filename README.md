@@ -1,0 +1,2 @@
+# oshop
+Angular Shopping Application
